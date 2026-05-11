@@ -1,6 +1,6 @@
 const express = require('express');
 const taskRoutes = require('./routes/taskRoutes');
-
+const variableQueNuncaUso = 'esto causara un error de linting';
 const app = express();
 
 app.use(express.json());
