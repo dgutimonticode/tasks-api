@@ -35,32 +35,32 @@ El workflow `.github/workflows/ci.yml` ejecuta los siguientes pasos en **dos ver
 ## 3. Evidencias
 
 ### 3.1 Historial de ejecuciones en la pestaña Actions
+![[1.historial de ejecuciones.png]]
 
-> 📸 _Insertar captura de pantalla aquí_
 
 ---
 
 ### 3.2 Detalle de un workflow exitoso con reporte de cobertura
 
-> 📸 _Insertar captura de pantalla aquí_
-
+![[2.1Ejec_pruebas_covert.png]]
+![[2.2Ejec_pruebas_covert.png]]
 ---
 
 ### 3.3 Detalle de un workflow fallido (forzado intencionalmente)
 
-> 📸 _Insertar captura de pantalla aquí_
+![[3.fallo-intencional.png]]
 
 ---
 
 ### 3.4 Configuración de la regla de protección de rama
-
-> 📸 _Insertar captura de pantalla aquí_
+![[4.png]]
+![[4.1.png]]
 
 ---
 
 ### 3.5 Pull Request bloqueado por CI
+![[5.png]]
 
-> 📸 _Insertar captura de pantalla aquí_
 
 ---
 
