@@ -35,34 +35,33 @@ El workflow `.github/workflows/ci.yml` ejecuta los siguientes pasos en **dos ver
 ## 3. Evidencias
 
 ### 3.1 Historial de ejecuciones en la pestaña Actions
-[![[1.historial de ejecuciones.png]]
-](https://github.com/dgutimonticode/tasks-api/blob/main/img/1.historial%20de%20ejecuciones.png)
+
+https://github.com/dgutimonticode/tasks-api/blob/main/img/1.historial%20de%20ejecuciones.png?raw=true
 
 ---
 
 ### 3.2 Detalle de un workflow exitoso con reporte de cobertura
 
-[![[2.1Ejec_pruebas_covert.png]]
-](https://github.com/dgutimonticode/tasks-api/blob/main/img/2.1Ejec_pruebas_covert.png)
+https://github.com/dgutimonticode/tasks-api/blob/main/img/2.1Ejec_pruebas_covert.png?raw=true
+
 ---
 
 ### 3.3 Detalle de un workflow fallido (forzado intencionalmente)
 
-[![[3.fallo-intencional.png]]
-](https://github.com/dgutimonticode/tasks-api/blob/main/img/3.fallo-intencional.png)
+https://github.com/dgutimonticode/tasks-api/blob/main/img/3.fallo-intencional.png?raw=true
+
 ---
 
 ### 3.4 Configuración de la regla de protección de rama
 
-[![[4.png]]
-](https://github.com/dgutimonticode/tasks-api/blob/main/img/4.1.png)
+https://github.com/dgutimonticode/tasks-api/blob/main/img/4.png?raw=true
 
-[![[4.1.png]]
-](https://github.com/dgutimonticode/tasks-api/blob/main/img/4.png)
+https://github.com/dgutimonticode/tasks-api/blob/main/img/4.1.png?raw=true
+
 ---
 
 ### 3.5 Pull Request bloqueado por CI
-https://github.com/dgutimonticode/tasks-api/blob/main/img/5.png
+https://github.com/dgutimonticode/tasks-api/blob/main/img/5.png?raw=true
 
 ---
 
