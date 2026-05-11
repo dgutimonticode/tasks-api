@@ -1,5 +1,6 @@
 const express = require('express');
 const taskRoutes = require('./routes/taskRoutes');
+const variable = "variable";
 
 const app = express();
 
