@@ -1,3 +1,4 @@
+const variableQueNuncaUso = 'esto rompe el linting';
 const express = require('express');
 const taskRoutes = require('./routes/taskRoutes');
 
