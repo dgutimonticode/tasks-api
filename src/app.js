@@ -1,13 +1,13 @@
 const express = require('express');
 const taskRoutes = require('./routes/taskRoutes');
 
-const app = express();
+const app = express()
 
 app.use(express.json());
 
 // Health check
 app.get('/health', (req, res) => {
-  res.status(200).json({ status: 'ok', timestamp: new Date().toISOString() });
+  res.status(200).json({ status: 'ok', version: '2.0.0' });
 });
 
 // Rutas de la API
