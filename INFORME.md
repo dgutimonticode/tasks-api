@@ -34,33 +34,21 @@ El workflow `.github/workflows/ci.yml` ejecuta los siguientes pasos en **dos ver
 
 ## 3. Evidencias
 
-### 3.1 Historial de ejecuciones en la pestaña Actions
-![[1.historial de ejecuciones.png]]
+### 3.1 Historial de ejecuciones
+![Historial](https://raw.githubusercontent.com/dgutimonticode/tasks-api/main/img/1.historial%20de%20ejecuciones.png)
 
+### 3.2 Workflow exitoso con cobertura
+![Workflow exitoso](https://raw.githubusercontent.com/dgutimonticode/tasks-api/main/img/2.1Ejec_pruebas_covert.png)
 
----
+### 3.3 Workflow fallido
+![Workflow fallido](https://raw.githubusercontent.com/dgutimonticode/tasks-api/main/img/3.fallo-intencional.png)
 
-### 3.2 Detalle de un workflow exitoso con reporte de cobertura
+### 3.4 Protección de rama
+![Branch protection 1](https://raw.githubusercontent.com/dgutimonticode/tasks-api/main/img/4.png)
+![Branch protection 2](https://raw.githubusercontent.com/dgutimonticode/tasks-api/main/img/4.1.png)
 
-![[2.1Ejec_pruebas_covert.png]]
-![[2.2Ejec_pruebas_covert.png]]
----
-
-### 3.3 Detalle de un workflow fallido (forzado intencionalmente)
-
-![[3.fallo-intencional.png]]
-
----
-
-### 3.4 Configuración de la regla de protección de rama
-![[4.png]]
-![[4.1.png]]
-
----
-
-### 3.5 Pull Request bloqueado por CI
-![[5.png]]
-
+### 3.5 Pull Request bloqueado
+![PR bloqueado](https://raw.githubusercontent.com/dgutimonticode/tasks-api/main/img/5.png)
 
 ---
 
