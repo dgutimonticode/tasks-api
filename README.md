@@ -39,18 +39,20 @@ npm run lint
 
 ```bash
 # Crear tarea
-curl -X POST http://localhost:3000/api/tasks \
+curl -X POST http://98.93.81.182/api/tasks \
   -H "Content-Type: application/json" \
   -d '{"title": "Estudiar CI/CD", "description": "Completar laboratorio 5.1"}'
 
 # Listar tareas
-curl http://localhost:3000/api/tasks
+curl http://98.93.81.182/api/tasks
 ```
 
 ## Documentación del Laboratorio
 
 Puedes encontrar el informe completo con capturas de pantalla y evidencias en el siguiente enlace:
 
-- [Ver informe del laboratorio](./INFORME.md)
+- [Ver informe del laboratorio 5.1](./INFORME.md)
+
+- [Ver informe del laboratorio 5.2](./INFORME_LAB52.md)
 
 ## Estado del CI

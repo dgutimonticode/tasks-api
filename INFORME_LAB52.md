@@ -18,7 +18,7 @@
 
 | Método | Ruta             | Descripción              |
 |--------|------------------|--------------------------|
-| GET    | /health          | Estado de la API (version) |
+| GET    | /health          | Estado de la API         |
 | GET    | /api/tasks       | Listar todas las tareas  |
 | GET    | /api/tasks/:id   | Obtener tarea por ID     |
 | POST   | /api/tasks       | Crear nueva tarea        |
@@ -129,7 +129,6 @@ Se integró Trivy en el pipeline para analizar la imagen Docker en busca de vuln
 
 ### 3.7 API funcionando en la instancia EC2
 
-> 📸 _Insertar captura del navegador accediendo a http://IP_EC2/health y mostrando la respuesta JSON con version 2.0.0_
 
 ![API en EC2: respuesta de /health](img/lab5.2/7.png)
 
@@ -137,7 +136,6 @@ Se integró Trivy en el pipeline para analizar la imagen Docker en busca de vuln
 
 ### 3.8 Contenedor corriendo en EC2
 
-> 📸 _Insertar captura del comando `docker ps` dentro del EC2 mostrando el contenedor activo_
 
 ![Contenedor activo en EC2](img/lab5.2/8.png)
 
@@ -145,7 +143,6 @@ Se integró Trivy en el pipeline para analizar la imagen Docker en busca de vuln
 
 ### 3.9 Entornos configurados en GitHub
 
-> 📸 _Insertar captura de Settings → Environments mostrando staging y production_
 
 ![Entornos configurados en GitHub](img/lab5.2/9.png)
 
